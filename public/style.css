@@ -1,0 +1,36 @@
+body {
+  background: #f4f8fb;
+  font-family: Arial;
+  margin: 0;
+}
+
+header {
+  background: #6a8caf;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+.card, .box {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+button {
+  background: #6a8caf;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 100%;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+}
